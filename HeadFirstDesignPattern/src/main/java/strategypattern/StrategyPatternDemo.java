@@ -1,9 +1,9 @@
-package com.example.strategypattern;
+package strategypattern;
 
-import com.example.strategypattern.service.Duck;
-import com.example.strategypattern.service.FlyRocketPowered;
-import com.example.strategypattern.service.MallardDuck;
-import com.example.strategypattern.service.ModelDuck;
+import strategypattern.service.Duck;
+import strategypattern.service.FlyRocketPowered;
+import strategypattern.service.MallardDuck;
+import strategypattern.service.ModelDuck;
 
 public class StrategyPatternDemo {
   public static void main(String[] args) {

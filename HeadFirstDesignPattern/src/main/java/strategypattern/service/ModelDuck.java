@@ -1,4 +1,4 @@
-package com.example.strategypattern.service;
+package strategypattern.service;
 
 public class ModelDuck extends Duck {
   @Override

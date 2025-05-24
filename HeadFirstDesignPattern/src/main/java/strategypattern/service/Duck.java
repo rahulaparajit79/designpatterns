@@ -1,7 +1,5 @@
-package com.example.strategypattern.service;
+package strategypattern.service;
 
-import com.example.strategypattern.service.FlyBehavior;
-import com.example.strategypattern.service.QuackBehavior;
 
 public abstract class Duck {
   FlyBehavior flyBehavior;

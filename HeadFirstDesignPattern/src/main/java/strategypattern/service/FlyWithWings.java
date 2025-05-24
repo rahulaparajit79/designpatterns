@@ -1,4 +1,4 @@
-package com.example.strategypattern.service;
+package strategypattern.service;
 
 public class FlyWithWings implements FlyBehavior {
   @Override

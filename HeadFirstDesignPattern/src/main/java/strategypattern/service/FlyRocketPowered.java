@@ -1,4 +1,5 @@
-package com.example.strategypattern.service;
+package strategypattern.service;
+
 
 public class FlyRocketPowered implements FlyBehavior {
   @Override
